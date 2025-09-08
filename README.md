@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 
 <h1>About Me 📌</h1>
 
-- 🔭 I’m Full-Stack Developer 
-- 📫 How to reach me: montherismail90@gmail.com
-- 🔭 I have 2 years of experince working as a full-stack development
-- 🌱 I am a software engineer student in -[University Of Palestine](#)
+- 🔭 I’m Back-End Developer 
+- 📫 How to reach me: khaledmohammedsafi@gmail.com
+- 🔭 I have 3 years of experince working as a Back-End Developer
+- 🌱 I am a Software Engineer From -[University Of Palestine](#)
 - 💁‍♂️ Career Accelerator Graduate -[Career Accelerator Program](https://gazaskygeeks.com/coders-career-accelerator-course/)
 - 💁‍♂️ Ex Front end developer -[The Station](#)
 - 💁‍♂️ Ex Full Stack web developer -[Freelancer](#)
