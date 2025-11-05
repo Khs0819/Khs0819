@@ -1,20 +1,6 @@
 ![header](https://phplaravel-1422411-5862963.cloudwaysapps.com/storage/1000/hero-bg.jpg)
 
 
-<!--
-**MKhasib/mkhasib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 
@@ -23,41 +9,27 @@ Here are some ideas to get you started:
 
 - 🔭 I’m Back-End Developer 
 - 📫 How to reach me: khaledmohammedsafi@gmail.com
-- 🔭 I have 3 years of experince working as a Back-End Developer
+- 🔭 I have +3 years of experince working as a Back-End Developer
 - 🌱 I am a Software Engineer From -[University Of Palestine](#)
 - 💁‍♂️ Career Accelerator Graduate -[Career Accelerator Program](https://gazaskygeeks.com/coders-career-accelerator-course/)
 - 💁‍♂️ Ex Front end developer -[The Station](#)
 - 💁‍♂️ Ex Full Stack web developer -[Freelancer](#)
-- 💁‍♂️ Present Front end developer -[Comma](#)
-
 
 <br />
 <h2>Languages and Tools </h2>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-<img src="https://img.shields.io/badge/-TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/-ReactJs-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/-ReduxJs-61DAFB?style=for-the-badge&logo=redux&logoColor=white" />
-<img src="https://img.shields.io/badge/-react_router-61DAFB?style=for-the-badge&logo=react-router&logoColor=white" />
-<img src="https://img.shields.io/badge/-react_native-61DAFB?style=for-the-badge&logo=react-router&logoColor=white" />
-<img src="https://img.shields.io/badge/-materialUI-61DAFB?style=for-the-badge&logo=materialui&logoColor=black" />
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/mongodb-43853D?style=for-the-badge&logo=mongodb&logoColor=green" />
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/-Jest-914359?style=for-the-badge&logo=jest&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/-postman-F26634?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/-Heroku-%236B48AF?style=for-the-badge&logo=heroku&logoColor=white" />
-<img src="https://img.shields.io/badge/-Figma-%2379D384?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/-mapBox-61DAFB?style=for-the-badge&logo=firebase&logoColor=white" />
-<img src="https://img.shields.io/badge/-Twilio-E95420?style=for-the-badge&logo=firebase&logoColor=white" />
-<img src="https://img.shields.io/badge/-Bootstarp-43853D?style=for-the-badge&logo=firebase&logoColor=white" />
-<img src="https://img.shields.io/badge/-react Bootstarp-E95420?style=for-the-badge&logo=firebase&logoColor=white" />
-
-
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-F26634?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 <br />
 
 <br />
@@ -87,8 +59,8 @@ Here are some ideas to get you started:
 <br /><br />
 <h2 align="center">Let's Connect 😎</h2>
 <p align="center">
-  <a href = "mailto:montherismail90@gmail.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height = 30></a>
-  <a href = "https://www.linkedin.com/in/monther-alzamli-76b618211/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"     height = 30></a>
+  <a href = "mailto:khaledmohammedsafi@gmail.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height = 30></a>
+  <a href = "https://www.linkedin.com/in/khaled-safi-a2982a255/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"     height = 30></a>
  
 </p>
 
