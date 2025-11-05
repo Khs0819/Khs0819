@@ -30,12 +30,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-F26634?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-<br />
-
-<h2 align="center">Visitors 👀</h2>
-<div align="center" >
-  <img src="https://profile-counter.glitch.me/MontherIsmail/count.svg"></img>
-</div>
 
 <br /><br />
 <h2 align="center">Let's Connect 😎</h2>
